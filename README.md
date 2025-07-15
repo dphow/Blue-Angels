@@ -12,6 +12,7 @@ The dates so far have been:
 ## Important Tips for Research Software Engineering
 
 1. Talk about your code before writing code.
+2. Add comments for both your future self and other collaborators
 
 ## Funding
 
